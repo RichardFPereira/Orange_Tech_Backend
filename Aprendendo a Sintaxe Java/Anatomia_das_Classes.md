@@ -1,15 +1,14 @@
-# Anatomia das Classes
+# <p style="text-align:center">Anatomia das Classes</p>
 
----
+## Anatomia das Classes - 1:
 
-## Anatomia das Classes - 1
+### Sintaxe básica Java
 
-### Sintaxe básica Java:
-
-~~~ java
-
+~~~Java
 public class MinhaClasse {
  
 	// digite aqui seu código
 }
 ~~~
+
+
