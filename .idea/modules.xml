@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Orange_Tech_Backend.iml" filepath="$PROJECT_DIR$/.idea/Orange_Tech_Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo_A_Sintaxe_Java/anatomia-das-classes/anatomia-das-classes.iml" filepath="$PROJECT_DIR$/Aprendendo_A_Sintaxe_Java/anatomia-das-classes/anatomia-das-classes.iml" />
     </modules>
   </component>
 </project>
