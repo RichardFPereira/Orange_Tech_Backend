@@ -192,17 +192,17 @@ Este método visa tornar o código de fácil entendimento seguindo alguns padrõ
 //Exemplos:
 somar (int numero1, int numero2) {}
 
-abrirConexao(){}
+abrir Conexao(){}
 
-concluirProcessament(){}
+concluirProcessament (){}
 
 // Lembre-se de, assim como nas variáveis, 
 // os métodos também devem seguir sempre o mesmo idioma
-findById(int id){}
+findById (int id){}
 
 // Este método não deixa claro se seu objetivo é somar ou imprimir
 // Evite utilizar um método para mais de uma ação e deixe o nome claro sobre sua função
-somarImprimir(int a, int b){}
+somarImprimir (int a, int b){}
 ~~~ 
 
 
