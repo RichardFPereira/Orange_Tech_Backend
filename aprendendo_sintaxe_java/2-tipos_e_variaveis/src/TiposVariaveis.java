@@ -11,7 +11,5 @@ public class TiposVariaveis {
         double salario = 1234.56;
 
         final double VALOR_DE_PI = 3.14159265358979323846;
-
-
     }
 }
