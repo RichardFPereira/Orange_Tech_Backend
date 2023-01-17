@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-anatomia_das_classes/1-anatomia_das_classes.iml" filepath="$PROJECT_DIR$/1-anatomia_das_classes/1-anatomia_das_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-tipos_e_variaveis/2-tipos_e_variaveis.iml" filepath="$PROJECT_DIR$/2-tipos_e_variaveis/2-tipos_e_variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-operadores/3-operadores.iml" filepath="$PROJECT_DIR$/3-operadores/3-operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aprendendo_sintaxe_java.iml" filepath="$PROJECT_DIR$/.idea/aprendendo_sintaxe_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/escopo/escopo.iml" filepath="$PROJECT_DIR$/escopo/escopo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_doc/java_doc.iml" filepath="$PROJECT_DIR$/java_doc/java_doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terminal_e_argumentos/terminal_e_argumentos.iml" filepath="$PROJECT_DIR$/terminal_e_argumentos/terminal_e_argumentos.iml" />
+    </modules>
+  </component>
+</project>
