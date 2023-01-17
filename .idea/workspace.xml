@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9f9ebe4-17a6-4e5e-ac9f-0f447db1b6e7" name="Changes" comment="Pasta renomeada">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K9dDYMFPWfWYHvI5TtZBFZ3JFb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/Richard/Documents/Dev/Dev_Makers_Ada_Sinqia/Módulo III - Programação Orientada a Objetos II",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Richard\Documents\Dev\Orange_Tech_BackEnd\Orange_Tech_Backend\aprendendo-a-sintaxe-java" />
+      <recent name="C:\Users\Richard\Documents\Dev\Orange_Tech_BackEnd\Orange_Tech_Backend\anatomia-das-classes" />
+      <recent name="C:\Users\Richard\Documents\Dev\Orange_Tech_BackEnd\Orange_Tech_Backend\Aprendendo a Sintaxe Java" />
+      <recent name="C:\Users\Richard\Documents\Dev\Orange_Tech_BackEnd\Orange_Tech_Backend\Aprendendo a Sintaxe Java\anatomia-das-classes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9f9ebe4-17a6-4e5e-ac9f-0f447db1b6e7" name="Changes" comment="" />
+      <created>1673390614790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673390614790</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update no arquivo anatomia-das-classes.md e criação do arquivo MinhaClasse.java para praticar código da aula.">
+      <created>1673398792219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673398792219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <created>1673399788374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673399788374</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finalizado o módulo de anatomia das classes. Conteúdo inserido no arquivo anatomia_das_classes.md e alguns exemplos de código e organização de pacotes dentro do módulo anatomia_das_classes.">
+      <created>1673446930765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673446930765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pasta renomeada">
+      <created>1673447039993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673447039993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update no arquivo anatomia-das-classes.md e criação do arquivo MinhaClasse.java para praticar código da aula." />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Finalizado o módulo de anatomia das classes. Conteúdo inserido no arquivo anatomia_das_classes.md e alguns exemplos de código e organização de pacotes dentro do módulo anatomia_das_classes." />
+    <MESSAGE value="Pasta renomeada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pasta renomeada" />
+  </component>
+</project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca71f156-bed4-4eba-bbbc-0a183228c67e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/operadores-relacionais.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/1-anatomia_das_classes/1-anatomia_das_classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/1-anatomia_das_classes/anatomia_das_classes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/1-anatomia_das_classes/src/edu/richard/primeirasemana/BoletimEstudantil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/1-anatomia_das_classes/src/edu/richard/primeirasemana/MinhaClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/2-tipos_e_variaveis/2-tipos_e_variaveis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/2-tipos_e_variaveis/src/TiposVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/2-tipos_e_variaveis/tipos_e_variaveis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/3-operadores/operadores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/3-operadores/src/Operadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/4-metodos/metodos.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/4-metodos/src/Metodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/5-escopo/escopo.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/6-palavras_reservadas/palavras_reservadas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/6-palavras_reservadas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/terminal_e_argumentos/src/AboutMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/terminal_e_argumentos/src/AboutMe2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/terminal_e_argumentos/src/MinhaClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aprendendo_sintaxe_java/terminal_e_argumentos/terminal_e_argumentos.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPUyD4d9OdqxrPOiwnT4bw1euW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Richard/Documents/Dev/ProjetoDevMakersSinqia/ProjetoModuloIII - E-Commerce/ecommerce"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca71f156-bed4-4eba-bbbc-0a183228c67e" name="Changes" comment="" />
+      <created>1673875964360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673875964360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
