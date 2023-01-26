@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca71f156-bed4-4eba-bbbc-0a183228c67e" name="Changes" comment="Alteração do nome do arquivo .md e criação de um código para teste de operadores relacionais.">
-      <change beforePath="$PROJECT_DIR$/../.idea/Orange_Tech_Backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Orange_Tech_Backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ca71f156-bed4-4eba-bbbc-0a183228c67e" name="Changes" comment="Alterações gerais">
+      <change afterPath="$PROJECT_DIR$/src/operadoreslogicos/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java.MD" beforeDir="false" afterPath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +27,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Richard/Documents/Dev/Orange_Tech_BackEnd/Orange_Tech_Backend"
+    "last_opened_file_path": "C:/Users/Richard/Documents/Dev/Orange_Tech_BackEnd/Orange_Tech_Backend/logica-condicional-e-controle-de-fluxos-em-java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="logica-condicional-e-controle-de-fluxos-em-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674773767633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Alteração do nome do arquivo .md e criação de um código para teste de operadores relacionais.">
+      <created>1674773973804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674773973804</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Alterações gerais">
+      <created>1674774035301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674774035301</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Alteração do nome do arquivo .md e criação de um código para teste de operadores relacionais." />
-    <option name="LAST_COMMIT_MESSAGE" value="Alteração do nome do arquivo .md e criação de um código para teste de operadores relacionais." />
+    <MESSAGE value="Alterações gerais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterações gerais" />
   </component>
 </project>
