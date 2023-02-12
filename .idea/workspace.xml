@@ -2,11 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9f9ebe4-17a6-4e5e-ac9f-0f447db1b6e7" name="Changes" comment="Pasta renomeada">
-      <change beforePath="$PROJECT_DIR$/.idea/Orange_Tech_Backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Orange_Tech_Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas-de-repeticao-e-arrays-em-java/estruturas-de-repetição-e-arrays-em-java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas-de-repeticao-e-arrays-em-java/src/Exercicio1_NomeEIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas-de-repeticao-e-arrays-em-java/src/Exercicio2_Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas-de-repeticao-e-arrays-em-java/src/Exercicio3_MaiorEMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas-de-repeticao-e-arrays-em-java/src/Exercicio4_ParEImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas-de-repeticao-e-arrays-em-java/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/aprendendo_sintaxe_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/1-anatomia-das-classes/1-anatomia_das_classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/1-anatomia-das-classes/anatomia_das_classes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/1-anatomia-das-classes/src/edu/richard/primeirasemana/BoletimEstudantil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/1-anatomia-das-classes/src/edu/richard/primeirasemana/MinhaClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/2-tipos-e-variaveis/2-tipos_e_variaveis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/2-tipos-e-variaveis/src/TiposVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/2-tipos-e-variaveis/tipos_e_variaveis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/3-operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/operadores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/out/production/3-operadores/Operadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/3-operadores/src/Operadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/.idea/4-metodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/metodos.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/metodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/src/Metodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/src/smarttv/SmarTv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/4-metodos/src/smarttv/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/5-escopo/escopo.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/5-escopo/escopo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/5-escopo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/6-palavras-reservadas/palavras_reservadas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/6-palavras-reservadas/palavras_reservadas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/6-palavras-reservadas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/7-java-doc/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/7-java-doc/java_doc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/7-java-doc/java_doc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/7-java-doc/src/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/8-terminal-e-argumentos/src/AboutMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/8-terminal-e-argumentos/src/AboutMe2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/8-terminal-e-argumentos/src/MinhaClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/8-terminal-e-argumentos/terminal_e_argumentos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aprendendo-sintaxe-java/8-terminal-e-argumentos/terminal_e_argumentos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/logica-condicional-e-controle-de-fluxos-em-java.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/.idea/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/ControleDeFluxo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/controledefluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/out/production/controledefluxo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/out/production/controledefluxo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/out/production/controledefluxo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/out/production/controledefluxo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/out/production/controledefluxo/ControleDeFluxo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/controledefluxo/out/production/controledefluxo/controledefluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/logica-condicional-e-controle-de-fluxos-em-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/operadoreslogicos/OperadoresLogicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/operadoresrelacionais/OperadoresRelacionais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/out/production/logica-condicional-e-controle-de-fluxos-em-java/ControleDeFluxo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/out/production/logica-condicional-e-controle-de-fluxos-em-java/OperadoresLogicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logica-condicional-e-controle-de-fluxos-em-java/src/out/production/logica-condicional-e-controle-de-fluxos-em-java/OperadoresRelacionais.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +118,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Richard/Documents/Dev/Orange_Tech_BackEnd/Orange_Tech_Backend/logica-condicional-e-controle-de-fluxos-em-java&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Richard/Documents/Dev/Orange_Tech_BackEnd/Orange_Tech_Backend/estruturas-de-repeticao-e-arrays-em-java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
