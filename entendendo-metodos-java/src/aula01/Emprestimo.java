@@ -1,3 +1,5 @@
+package aula01;
+
 public class Emprestimo {
     public static int getDuasParcelas() {
         return 2;

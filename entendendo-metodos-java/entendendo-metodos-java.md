@@ -83,3 +83,26 @@ public static void  procuraParOuImpar(int num) {
   - Tente ao máximo criar métodos que trabalhem sozinhos ou em conjunto
   - Pode chamar um método dentro de outro
   - Pode passar como parâmetro, a chamada de outro método
+
+## Aula 02
+
+### Objetivos:
+
+1. Entender o que é sobrecarregar um método
+
+
+2. Saber como criar sobrecargas
+
+
+### Conceito:
+É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+
+
+Alterar a assinatura do método:
+Assinatura = nome + parâmetro.
+
+converterParaInteiro(float f);
+converterParaInteiro(double d);
+converterParaInteiro(String s);
+
+
