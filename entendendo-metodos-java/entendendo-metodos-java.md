@@ -105,4 +105,26 @@ converterParaInteiro(float f);
 converterParaInteiro(double d);
 converterParaInteiro(String s);
 
+## Aula 03
+
+### Objetivos:
+
+1. Entender como funcionam os retornos
+
+### Funcionamento
+
+O método executa seu retorno quando:
+* Completa todas suas instruções internas
+* Chega a uma declaração explicita de retorno
+* Lança uma exceção
+
+~~~java
+//Exemplos
+public String getMensagem() {
+    return "Olá!";
+        }
+public double getJuros() {
+    return 2.36;
+        }
+~~~
 
